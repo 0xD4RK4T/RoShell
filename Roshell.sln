@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roshell", "Roshell\Roshell.csproj", "{944E3147-1A67-4368-9647-74EA1ADF47B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944E3147-1A67-4368-9647-74EA1ADF47B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944E3147-1A67-4368-9647-74EA1ADF47B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944E3147-1A67-4368-9647-74EA1ADF47B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944E3147-1A67-4368-9647-74EA1ADF47B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7990696-18DA-48FD-819E-54FA648BCD75}
+	EndGlobalSection
+EndGlobal
