@@ -1,9 +1,0 @@
-D:\VS2022\RobloxConsoleExplorer\Roshell\bin\Debug\roshell.exe.config
-D:\VS2022\RobloxConsoleExplorer\Roshell\bin\Debug\roshell.exe
-D:\VS2022\RobloxConsoleExplorer\Roshell\bin\Debug\roshell.pdb
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\Roshell.csproj.AssemblyReference.cache
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\Roshell.csproj.CoreCompileInputs.cache
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\Roshell.csproj.Fody.CopyLocal.cache
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\Roshell.csproj.Fody.RuntimeCopyLocal.cache
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\roshell.exe
-D:\VS2022\RobloxConsoleExplorer\Roshell\obj\Debug\roshell.pdb
